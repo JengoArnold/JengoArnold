@@ -2,9 +2,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JengoArnold)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-874.70%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -47,36 +47,39 @@ Sunday                   56 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               3 hrs 6 mins        ███████████████████░░░░░░   76.93 % 
-CSS                      54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               8 hrs 34 mins       █████████████████████░░░░   85.90 % 
+CSS                      1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  9 hrs 48 mins       █████████████████████████   98.29 % 
+Copilot CLI              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (8.19%)
+⏱ AI Coding Time: 1 hr 22 mins (13.77%)
 
-✍️ 783 lines written by AI, 508 lines written by hand (60.65% AI-written)
+✍️ 1,798 lines written by AI, 1,800 lines written by hand (49.97% AI-written)
 
-🔤 64,770 Input Tokens, 550 Output Tokens
+🔤 7,995,660 Input Tokens, 1,666,621 Output Tokens
 
-💵 $0.20 Estimated AI Cost This Week
+💵 $2.72 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 5 AI Sessions, 12 AI Prompts
 
-Vscode                   783 lines           █████████████████████████   100.00 % 
+Github-Copilot           1,069 lines         ███████████████░░░░░░░░░░   59.45 % 
+Vscode                   729 lines           ██████████░░░░░░░░░░░░░░░   40.55 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.65% of written lines came from AI
-📝 Concise Prompter — average 87 characters per prompt
+⚖️ Balanced with AI — 49.97% of written lines came from AI
+📝 Concise Prompter — average 79 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 51.79% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 66.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +99,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JengoArnold/JengoArnold/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 03:28:42 UTC
+ Last Updated on 24/10/2026 03:23:14 UTC
 <!--END_SECTION:waka-->
